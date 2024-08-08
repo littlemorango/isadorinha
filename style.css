@@ -1,4 +1,9 @@
 body { background-color: rgb(173, 212, 245);}
 
-p {color: #ffffff00;
+p {
+    color: #ffffff00;
+}
+
+.morango {
+font-style: oblique;
 }
