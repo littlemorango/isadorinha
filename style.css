@@ -5,6 +5,7 @@
 
 body { background-color: rgb(188, 219, 244);}
 
+
 p {
     color: #000000;
 }
@@ -20,14 +21,8 @@ font-style: initial;
 
 header {
 border-bottom: solid 1px white;
+padding: 20px;
+font-size: 20px;
+color: rgb(93, 106, 255);
 }
-    border: solid 1px
-
-
-
-       padding: 20px;
-
-
-
-    font-size: 20px;
- 
+   
