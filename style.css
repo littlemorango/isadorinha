@@ -11,14 +11,14 @@ font-style: oblique;
 .red { 
     width: 35%
 }
-{
+{body}
     border-bottom: solid 2px rgb(42, 122, 228)
-}
 
-{
+
+
        padding: 20px;
-}
 
-{
+
+
     font-size: 20px;
-}
+
