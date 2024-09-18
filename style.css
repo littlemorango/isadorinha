@@ -16,8 +16,12 @@ font-style: initial;
 .red { 
     width: 15%
 }
-{body}
-    border-bottom: solid 2px rgb(42, 122, 228)
+
+
+header {
+border-bottom: solid 1px white;
+}
+    border: solid 1px
 
 
 
