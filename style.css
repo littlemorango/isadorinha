@@ -36,3 +36,10 @@ section {
     display: block;
     unicode-bidi: isolate;
 }
+
+section {
+    background: rgb(203, 224, 255);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+}
