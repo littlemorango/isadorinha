@@ -26,3 +26,12 @@ display: flex;
 justify-content: center;
 
 }
+
+section {
+    background: #bfdff1;
+
+}
+
+section {
+    display: block;
+}
